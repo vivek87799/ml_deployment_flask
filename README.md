@@ -1,0 +1,1 @@
+A simple boiler plate to deploy machine learning model using Flask.
